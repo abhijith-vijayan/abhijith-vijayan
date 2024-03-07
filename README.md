@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Tracker for page views for https://abhijithvijayan.in/
+#### Hacky Tracker for page views for https://abhijithvijayan.in/
 
 
  <img
