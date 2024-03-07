@@ -22,3 +22,6 @@ Here are some ideas to get you started:
     src="https://komarev.com/ghpvc/?username=abhijith-vijayan&label=PROFILE+VIEWS&color=071A2C&style=for-the-badge"
     alt="Profile Views"
   />
+
+
+![](https://hit.yhype.me/github/profile?user_id=78354201)
