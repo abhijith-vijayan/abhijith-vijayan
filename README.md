@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ <img
+    src="https://komarev.com/ghpvc/?username=abhijith-vijayan&label=PROFILE+VIEWS&color=071A2C&style=for-the-badge"
+    alt="Profile Views"
+  />
